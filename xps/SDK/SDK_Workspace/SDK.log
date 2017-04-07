@@ -1,0 +1,31 @@
+11:35:58.249 INFO  - Processing command line option -hwspec C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.xml. 
+11:48:00.412 INFO  - Project hello_world_bsp was a BSP project. Please update references. 
+11:48:00.413 ERROR - SDK has detected that project hello_world_bsp has been deleted (or renamed).
+If this project was a BSP referenced by other C/C++ applications, then those applications will fail to build now. Please right click on those applications and click 'Change Referenced BSP' to update those projects' BSP references. 
+11:53:28.483 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+11:56:41.794 INFO  - FPGA configured successfully with bitstream "C:/ra127-2014/lprs2/xps/SDK/SDK_Workspace/xps_hw_platform/download.bit" 
+12:11:03.574 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:17:37.263 INFO  - Processing command line option -hwspec C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.xml. 
+09:48:25.741 INFO  - Project xps_hw_platform's source hardware specification located at C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+09:52:11.371 INFO  - Copied contents of C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.xml into \xps_hw_platform\system.xml. 
+09:52:11.387 INFO  - Copied contents of C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.bit into \xps_hw_platform\system.bit. 
+09:52:11.387 INFO  - Copied contents of C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system_bd.bmm into \xps_hw_platform\system_bd.bmm. 
+09:52:11.746 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+09:52:12.947 INFO  - Updating MSS for Board Support Package Project: standalone_bsp_0.
+		 The following driver assignments were removed:
+			Peripheral Instance: leds, driver: gpio_v3_01_a.
+		 The following new driver assignments were made:
+			Peripheral Instance: my_peripheral_0, driver: generic_v1_00_a.
+ 
+09:52:14.023 INFO  - Updating hardware inferred compiler options for hello_world. 
+09:52:14.039 INFO  - Clearing existing target manager status. 
+09:52:15.350 INFO  - Closing and re-opening the MSS file of ther project standalone_bsp_0 
+09:52:16.520 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+09:53:05.940 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:53:10.200 INFO  - Processing command line option -hwspec C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\system.xml. 

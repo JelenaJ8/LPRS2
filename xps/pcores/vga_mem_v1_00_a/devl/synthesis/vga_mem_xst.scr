@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\ra127-2014\lprs2\xps\pcores\vga_mem_v1_00_a\devl\synthesis\vga_mem_xst.prj"
+-top vga_mem
+-p virtex6
+-ofn "C:\ra127-2014\lprs2\xps\pcores\vga_mem_v1_00_a\devl\synthesis\vga_mem_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib vga_mem_v1_00_a

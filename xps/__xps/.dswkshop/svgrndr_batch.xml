@@ -1,0 +1,32 @@
+
+<RENDERBATCH>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\proc_sys_reset_0.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\proc_sys_reset_0.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\proc_sys_reset_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_ilmb.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_ilmb.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0_ilmb.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_i_bram_ctrl.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_i_bram_ctrl.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0_i_bram_ctrl.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_dlmb.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_dlmb.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0_dlmb.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_d_bram_ctrl.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_d_bram_ctrl.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0_d_bram_ctrl.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_bram_block.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0_bram_block.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0_bram_block.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\microblaze_0.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\microblaze_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\debug_module.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\debug_module.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\debug_module.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\clock_generator_0.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\clock_generator_0.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\clock_generator_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\axi4lite_0.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\axi4lite_0.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\axi4lite_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\RS232.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\RS232.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\RS232.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\DIP_Switches.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\DIP_Switches.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\DIP_Switches.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\my_peripheral_0.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\my_peripheral_0.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\my_peripheral_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\system_blkd.jpg" SVGNAME="C:\ra127-2014\lprs2\xps\SDK\SDK_Export\hw\imgs\system_blkd.svg" TMPSVGFN="C:\ra127-2014\lprs2\xps\__xps\.dswkshop\system_blkd.svg"/>
+
+</RENDERBATCH>
